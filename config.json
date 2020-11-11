@@ -1,0 +1,10 @@
+{
+    "CommandPrefix": "!",
+    "CasinoOwner": "345554952879341568",
+    "EmbedColorHex": "769B37",
+    "CurrencyName": "points",
+    "InitialCurrency": 100,
+    "DailyRewardMinimum": 20,
+    "DailyRewardMaximum": 100,
+    "MaxRobAmount": 200
+}
